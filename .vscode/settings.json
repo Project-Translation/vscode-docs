@@ -1,10 +1,10 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-  "git.branchProtection": [
-    "main"
-  ],
-  "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
-  "editor.wordWrap": "on",
+    "git.branchProtection": [
+        "main"
+    ],
+    "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
+    "editor.wordWrap": "on",
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
     "files.associations": {
@@ -18,7 +18,6 @@
     "markdown.copyFiles.destination": {
         // /release-notes/v123.md -> /release-notes/images/123/img.png
         "/release-notes/**/*": "/release-notes/images/${documentBaseName/v(.*)/$1/}/",
-
         // Put into 'images' directory next to file
         "/api/**/*": "images/${documentBaseName}/"
     },
@@ -30,4 +29,21 @@
     "doc-assistant.milestone": "March 2025",
 
     "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "projectTranslator.userPrompts": [
+        "所有的相对路径中的**/docs/**替换为对应翻译语言的路径. 比如翻译目标语言为**zh-cn**时, 将**/docs/**替换为**/i18n/zh-cn/docs/**."
+    ],
+    "projectTranslator.specifiedFolders": [
+        {
+            "sourceFolder": {
+                "path": "docs/copilot",
+                "lang": "en-us"
+            },
+            "destFolders": [
+                {
+                    "path": "i18n/zh-cn/copilot",
+                    "lang": "zh-cn"
+                }
+            ]
+        }
+    ]
 }

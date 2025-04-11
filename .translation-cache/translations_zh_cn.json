@@ -1,0 +1,82 @@
+{
+  "ai-powered-suggestions.md": {
+    "timestamp": 1743665964723,
+    "hash": "0b87d661cd23607e75b45cb3f5a35e40"
+  },
+  "copilot-chat-context.md": {
+    "timestamp": 1743665992618,
+    "hash": "9b5fdef87cb5e31147e9a08517d0f2b5"
+  },
+  "copilot-chat.md": {
+    "timestamp": 1743666085292,
+    "hash": "2d932d54ddb854f559361acd28b9e4d0"
+  },
+  "copilot-customization.md": {
+    "timestamp": 1743666143835,
+    "hash": "885f288d3d54946722337f7e6402967f"
+  },
+  "copilot-edits.md": {
+    "timestamp": 1743666240221,
+    "hash": "ba6b5acd76d7583292f0fc4b152aaf98"
+  },
+  "copilot-extensibility-overview.md": {
+    "timestamp": 1743666260703,
+    "hash": "700be1356b833718872e779fd5beafa7"
+  },
+  "copilot-settings.md": {
+    "timestamp": 1743666308186,
+    "hash": "11354022ae61a1bcacd59297fbdfb6fd"
+  },
+  "copilot-tips-and-tricks.md": {
+    "timestamp": 1743666351851,
+    "hash": "37492d81031e8c406c1dbfd54033e532"
+  },
+  "copilot-vscode-features.md": {
+    "timestamp": 1743666442501,
+    "hash": "91912b8b065b9f46e3dff810e05face9"
+  },
+  "faq.md": {
+    "timestamp": 1743666480547,
+    "hash": "66e310c764f41d657c566fc22463c2d8"
+  },
+  "getting-started-chat.md": {
+    "timestamp": 1743666539516,
+    "hash": "c7bcbcb25863f151752aa31357fbc86c"
+  },
+  "getting-started.md": {
+    "timestamp": 1743666590332,
+    "hash": "40456d5304fb4c47492939d81dd82cd4"
+  },
+  "guides/code-review-with-copilot.md": {
+    "timestamp": 1743666596440,
+    "hash": "f647913b2eda8c720eedeae35694393f"
+  },
+  "guides/debug-with-copilot.md": {
+    "timestamp": 1743666618559,
+    "hash": "e42836d5cd7d6047a964d0306e38681c"
+  },
+  "guides/test-with-copilot.md": {
+    "timestamp": 1743666643640,
+    "hash": "53e10739d585166ba9d5958f4771da44"
+  },
+  "overview.md": {
+    "timestamp": 1743666703265,
+    "hash": "8c0bc1e53bf93bf2ca8d8efbc40b7e39"
+  },
+  "prompt-crafting.md": {
+    "timestamp": 1743666752893,
+    "hash": "f7315fce96c281b3f4e100d2ed7c93f9"
+  },
+  "setup-simplified.md": {
+    "timestamp": 1743666761441,
+    "hash": "cbac6b0b25200d76164c6b737ecc09bc"
+  },
+  "setup.md": {
+    "timestamp": 1743666795188,
+    "hash": "f2f034d74ccb4da8e87e3c8184495758"
+  },
+  "workspace-context.md": {
+    "timestamp": 1743666843799,
+    "hash": "d55b99813d4cf9ddf146578989619c91"
+  }
+}
